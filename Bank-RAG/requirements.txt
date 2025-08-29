@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-docx
+python-pptx
+httpx
+truststore
+langchain-huggingface
